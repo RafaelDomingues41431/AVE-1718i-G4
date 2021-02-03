@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovHubWebApp", "MovHubWebApp\MovHubWebApp.csproj", "{B6672F31-017C-45C2-A85B-7BAFE0075700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovHubDb", "MovHubDb\MovHubDb.csproj", "{902751B9-DDB8-4E09-849C-023D130AA636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlReflect", "HtmlReflect\HtmlReflect.csproj", "{5AB8C0A0-A449-4C34-AF67-4899236A8ADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToHtmlTests", "HtmlReflectTest\ToHtmlTests.csproj", "{C3D07A3E-E4EA-41B2-98CB-09AF5E93C3DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchMark", "BenchMark\BenchMark.csproj", "{D4ABD1A4-ABD9-4508-A54B-950E55233B78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlEmiters", "HtmlEmit\HtmlEmiters.csproj", "{3E22E4C3-8500-49C4-B492-D61AB18965E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6672F31-017C-45C2-A85B-7BAFE0075700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6672F31-017C-45C2-A85B-7BAFE0075700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6672F31-017C-45C2-A85B-7BAFE0075700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6672F31-017C-45C2-A85B-7BAFE0075700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{902751B9-DDB8-4E09-849C-023D130AA636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902751B9-DDB8-4E09-849C-023D130AA636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902751B9-DDB8-4E09-849C-023D130AA636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902751B9-DDB8-4E09-849C-023D130AA636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB8C0A0-A449-4C34-AF67-4899236A8ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB8C0A0-A449-4C34-AF67-4899236A8ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB8C0A0-A449-4C34-AF67-4899236A8ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB8C0A0-A449-4C34-AF67-4899236A8ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D07A3E-E4EA-41B2-98CB-09AF5E93C3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D07A3E-E4EA-41B2-98CB-09AF5E93C3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D07A3E-E4EA-41B2-98CB-09AF5E93C3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D07A3E-E4EA-41B2-98CB-09AF5E93C3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4ABD1A4-ABD9-4508-A54B-950E55233B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4ABD1A4-ABD9-4508-A54B-950E55233B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4ABD1A4-ABD9-4508-A54B-950E55233B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4ABD1A4-ABD9-4508-A54B-950E55233B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E22E4C3-8500-49C4-B492-D61AB18965E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E22E4C3-8500-49C4-B492-D61AB18965E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E22E4C3-8500-49C4-B492-D61AB18965E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E22E4C3-8500-49C4-B492-D61AB18965E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E630319C-D513-44E8-9E32-65F3BF994D7A}
+	EndGlobalSection
+EndGlobal

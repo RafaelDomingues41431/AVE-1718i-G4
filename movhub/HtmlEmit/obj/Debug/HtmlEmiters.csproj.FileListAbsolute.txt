@@ -1,0 +1,6 @@
+C:\Users\Rafae\OneDrive\Ambiente de Trabalho\New folder\AVE-1718i-G4\movhub\HtmlEmit\bin\Debug\HtmlEmit.dll.config
+C:\Users\Rafae\OneDrive\Ambiente de Trabalho\New folder\AVE-1718i-G4\movhub\HtmlEmit\bin\Debug\HtmlEmit.dll
+C:\Users\Rafae\OneDrive\Ambiente de Trabalho\New folder\AVE-1718i-G4\movhub\HtmlEmit\bin\Debug\HtmlEmit.pdb
+C:\Users\Rafae\OneDrive\Ambiente de Trabalho\New folder\AVE-1718i-G4\movhub\HtmlEmit\obj\Debug\HtmlEmiters.csprojAssemblyReference.cache
+C:\Users\Rafae\OneDrive\Ambiente de Trabalho\New folder\AVE-1718i-G4\movhub\HtmlEmit\obj\Debug\HtmlEmit.dll
+C:\Users\Rafae\OneDrive\Ambiente de Trabalho\New folder\AVE-1718i-G4\movhub\HtmlEmit\obj\Debug\HtmlEmit.pdb
